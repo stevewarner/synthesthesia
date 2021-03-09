@@ -1,4 +1,4 @@
 # synthesthesia
 a colorful synthesizer using Web Audio API
 
-https://stevenwarner.me/synthesthesia/
+https://stevewarner.github.io/synthesthesia/
